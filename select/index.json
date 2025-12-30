@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "folding chairs on the moon",
+  "base_artist": "grentperez & HONNE",
+  "createdAt": "2025-12-30T02:27:24.066292Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "folding chairs on the moon",
+      "artist": "grentperez",
+      "has_synced": true,
+      "path": "select/01_folding_chairs_on_the_moon_grentperez.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Folding Chairs On The Moon",
+      "artist": "grentperez & HONNE",
+      "has_synced": false,
+      "path": "select/pl_01_Folding_Chairs_On_The_Moon_grentperez_&_HONNE.txt"
+    }
+  ]
+}
